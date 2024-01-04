@@ -18,9 +18,9 @@
 
 
 
-  ![Screen1](https://github.com/Doskonala/Doskonala/blob/main/exampler1.jpg)
-  ![Screen2](https://github.com/Doskonala/Doskonala/blob/main/exampler2.jpg)
-  ![Screen3](https://github.com/Doskonala/Doskonala/blob/main/exampler3.jpg)
+  ![Screen1](https://github.com/Doskonala/Doskonala/blob/main/exampler1.png)
+  ![Screen2](https://github.com/Doskonala/Doskonala/blob/main/exampler2.png)
+  ![Screen3](https://github.com/Doskonala/Doskonala/blob/main/exampler3.png)
 
 
 
