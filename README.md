@@ -15,10 +15,13 @@
 # [Winged Home](https://github.com/Doskonala/real-estate-agency) 
 
 * Winged Home - A React application used to search for real estate.
-  
-![Screenshot1](https://github.com/Doskonala/Doskonala/blob/main/exampler1.jpg)
-![Screenshot2](https://github.com/Doskonala/Doskonala/blob/main/exampler2.jpg)
-![Screenshot3](https://github.com/Doskonala/Doskonala/blob/main/exampler3.jpg)
+
+
+
+  ![Screen1](https://github.com/Doskonala/Doskonala/blob/main/exampler1.jpg)
+  ![Screen2](https://github.com/Doskonala/Doskonala/blob/main/exampler2.jpg)
+  ![Screen3](https://github.com/Doskonala/Doskonala/blob/main/exampler3.jpg)
+
 
 
 ## Thanks for stopping by!
