@@ -5,12 +5,12 @@
 * As s sole developer I fully designed and implemented front-end and back-end solutions.
   
 
-<p align="center">
+
   ![Screenshot1](https://github.com/Doskonala/Doskonala/blob/main/example1.jpg)
   ![Screenshot2](https://github.com/Doskonala/Doskonala/blob/main/example2.jpg)
   ![Screenshot3](https://github.com/Doskonala/Doskonala/blob/main/example3.jpg)
   ![Screenshot4](https://github.com/Doskonala/Doskonala/blob/main/example4.jpg)
-</p>
+  
 
 # [DroneMobile](https://apps.apple.com/us/app/dronemobile/id380549030) 
 <p align="left"> <a href="https://apps.apple.com/us/app/dronemobile/id380549030" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >; </a>
