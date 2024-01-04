@@ -1,7 +1,7 @@
 
 # [Lazy Lorry](https://github.com/Doskonala/lazy_lorry) 
 
-* Lazy Lorry - it's Android mobile application build in Java;
+* Lazy Lorry - it's an Android mobile application build in Java;
 * As s sole developer I fully designed and implemented front-end and back-end solutions.
   
 
@@ -12,16 +12,11 @@
   ![Screenshot4](https://github.com/Doskonala/Doskonala/blob/main/example4.jpg)
   
 
-# [DroneMobile](https://apps.apple.com/us/app/dronemobile/id380549030) 
-<p align="left"> <a href="https://apps.apple.com/us/app/dronemobile/id380549030" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >; </a>
-</p>
+# [Winged Home](https://github.com/Doskonala/real-estate-agency) 
 
-* DroneMobile - A native iOS IoT application used to remotely control vehicle
+* Winged Home - A React application used to search for real estate.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/180519121-f37b948e-987a-4976-8585-4144ec2b6c80.png" width="930" title="DroneMobile">
 
-</p>
 
 ## Thanks for stopping by!
 
