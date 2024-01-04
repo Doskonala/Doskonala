@@ -4,7 +4,9 @@
 * Lazy Lorry - it's Android mobile application build in Java;
 * As s sole developer I fully designed and implemented front-end and back-end solutions.
   
-![Screenshot](https://github.com/Doskonala/Doskonala/blob/main/example1.jpg)
+<p align="center">
+  ![Screenshot1](https://github.com/Doskonala/Doskonala/blob/main/example1.jpg)
+</p>
 
 # [DroneMobile](https://apps.apple.com/us/app/dronemobile/id380549030) 
 <p align="left"> <a href="https://apps.apple.com/us/app/dronemobile/id380549030" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >; </a>
