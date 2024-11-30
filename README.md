@@ -28,5 +28,5 @@
 
 # Contact Info:
 
-- Email: nataliia.kashuba-ip202@nung.edu.ua
+- Email: nataliia.kashuba-item241@nung.edu.ua
 - LinkedIn: [nataliia-kashuba](https://www.linkedin.com/in/nataliia-kashuba/)
