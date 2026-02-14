@@ -1,3 +1,14 @@
+# [Accum](https://github.com/Doskonala/Accum) 
+
+* Accum - a C# application designed to calculate the payback period of a Battery Energy Storage System used in electricity arbitrage.
+
+
+
+![Screenshot1](https://github.com/Doskonala/Doskonala/blob/main/accum1.png)
+![Screenshot1](https://github.com/Doskonala/Doskonala/blob/main/accum2.png)
+![Screenshot1](https://github.com/Doskonala/Doskonala/blob/main/accum3.png)
+![Screenshot1](https://github.com/Doskonala/Doskonala/blob/main/accum4.png)
+
 
 # [Lazy Lorry](https://github.com/Doskonala/lazy_lorry) 
 
@@ -14,7 +25,7 @@
 
 # [Winged Home](https://github.com/Doskonala/real-estate-agency) 
 
-* Winged Home - A React application used to search for real estate.
+* Winged Home - a React application used to search for real estate.
 
 
 
