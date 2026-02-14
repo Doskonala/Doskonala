@@ -5,7 +5,7 @@
 
 
 ![Screenshot1](https://github.com/Doskonala/Doskonala/blob/main/accum1.png)
-![Screenshot1](https://github.com/Doskonala/Doskonala/blob/main/accum2.png)
+![Screenshot1](https://github.com/Doskonala/Doskonala/blob/main/accum.png)
 ![Screenshot1](https://github.com/Doskonala/Doskonala/blob/main/accum3.png)
 ![Screenshot1](https://github.com/Doskonala/Doskonala/blob/main/accum4.png)
 
