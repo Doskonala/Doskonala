@@ -12,7 +12,7 @@
 
 # [Lazy Lorry](https://github.com/Doskonala/lazy_lorry) 
 
-* Lazy Lorry - it's an Android mobile application build in Java;
+* Lazy Lorry - it's an Android mobile application built in Java;
 * As s sole developer I fully designed and implemented front-end and back-end solutions.
   
 
